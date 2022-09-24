@@ -16,5 +16,4 @@ Drag and drop `script` into resource (you can rename it to whatever)
 Join our discord [here](https://discord.gg/DUVx2wHTV8)
 
 ## Credits
-Astra#2100  Main Development
-Jordan.  Whitelisting help
+Astra#2100 Jordan.
