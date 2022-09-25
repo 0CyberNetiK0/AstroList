@@ -1,6 +1,7 @@
 # AstroList
 
 Simple whitelist script that utilizes a discord bot and database to manage whitelisting of your users.
+It uses discord ids btw to check if a user is whitelisted
 
 ## How to install?
 
